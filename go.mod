@@ -1,4 +1,4 @@
-module github.com/cakoqy/golan-zap
+module github.com/cakoqy/golog-zap
 
 go 1.14
 
